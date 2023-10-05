@@ -58,6 +58,8 @@ boolean b = new Boolean("true).boolenValue();
 the only required specifier is for TYPE 
 you must include a type in your format instructions and if you specify tthings besides type, the type must come last.
 
+when you have more than one argument, theyre inserted using the order in which you pass them to the format() method
+
 
 
 
